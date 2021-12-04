@@ -1,0 +1,64 @@
+"appetizers": [
+    {
+        "Name": "fries",
+        "ingredients": ["potatoes"],
+        "description": "Easy and fast to make"
+    },
+    {
+        "Name": "onion rings",
+        "ingredients": ["onions" , "breadcrumbs"],
+        "description": "Easy and fast to make"
+    },
+    
+]
+
+"cold sandwiches": [
+    {
+        "Name": "hoagie",
+        "ingredients": ["ham", "provolone cheese", "lettuce" , "onions", "wheat bread"],
+        "description": "Easy and fast to make"
+    },
+    {
+        "Name": "turkey",
+        "ingredients": ["turkey", "wheat bread" ,"lettuce", "onions", "tomato" , "cheese"]
+        "description": "Easy and fast to make"
+
+    },
+
+"hot sandwiches": [
+    {
+        "Name": "hoagie",
+        "ingredients": ["ham", "provolone cheese", "lettuce" , "onions", "wheat bread"],
+        "description": "Easy and fast to make"
+    },
+    {
+        "Name": "turkey",
+        "ingredients": ["turkey", "wheat bread" ,"lettuce", "onions", "tomato" , "cheese"]
+        "description": "Easy and fast to make"
+    }
+]
+
+"desserts": [
+    {
+        "Name": "chocolate cake",
+        "ingredients": ["chocolate", "flour", "eggs", "cake batter"]
+        "description": "Easy and fast to make"
+    },
+    {
+        "Name": "vanilla cake",
+        "ingredients": ["chocolate", "flour", "eggs", "cake batter"]
+        "description": "Easy and fast to make"
+    }
+]
+"drinks": [
+    {
+        "Name": "coca-cola",
+        "ingredients": ["cocoa, sugar, cane syrup"]
+        "description": "taste so healthy!"   
+    },
+    {
+        "Name": "pepsi",
+        "ingredients": ["cocoa, sugar, cane syrup"]
+        "description": "taste so healthy!"   
+    }
+]
